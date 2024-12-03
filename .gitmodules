@@ -1,0 +1,3 @@
+[submodule "MDK.SDK.NET"]
+	path = MDK.SDK.NET
+	url = https://github.com/axojhf/MDK.SDK.NET
